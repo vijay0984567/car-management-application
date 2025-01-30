@@ -36,12 +36,7 @@ For detailed API documentation, please visit the following link:
 ## Live Application
 
 You can access the live application through the following link:
-- [https://car-management-application-seven.vercel.app/](https://car-management-application-seven.vercel.app/)
+- [https://car-management-application-a6fb.vercel.app/](https://car-management-application-a6fb.vercel.app/)
 
-## Setup Instructions
-
-### Prerequisites
-1. Node.js
-2. MongoDB (or your chosen database)
 
 
